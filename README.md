@@ -1,7 +1,7 @@
 # Hello World! I'm uFelps👋
 
-- 🔭 Jovem Programador em busca do seu sonho
-- 🌱 Cursando Desenvolvimento de Sistemas na Etec de Itaquera I
+- 🔭 Jovem Programador buscando conhecimento.
+- 💻 Cursando Desenvolvimento de Sistemas na Etec de Itaquera I.
 
 <div align="center">
   <a href="https://github.com/uFelps">
