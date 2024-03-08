@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Felipe Sandes</h1>
-Bem vingos ao meu github. Sou desenvolvedor de software, formado na instituição ETEC de Itaquera e estudante da Universidade Cidade São Paulo, e busco a minha primeira oportunidade no mercado de TI.
+Bem vindos ao meu Github. Sou desenvolvedor de software, formado na instituição ETEC de Itaquera e estudante da Universidade Cidade São Paulo, e busco a minha primeira oportunidade no mercado de TI.
 Possuo foco em tecnologias de Desenvolvimento Back-end como Java, construindo API's REST com Spring Boot, JPA/Hibernate, MySQL, PostgreSQL. Juntamente a realização de testes unitários com JUnit5.
 Também possuo conhecimento em algumas tecnologias de Front-end, como: HTML, CSS, Javascript e React.
 
