@@ -1,6 +1,9 @@
 <h1>Hi 👋, I'm Felipe Sandes</h1>
-Hello! I'm Felipe, and welcome to my GitHub profile. I am passionate about technology and I am always looking to learn and share knowledge with the community. I'm a Systems Development Student at the ETEC institution in Itaquera, and I'm looking for my first opportunity in the IT market.
-I focus on Back-end Development technologies such as Java, building REST API's with Spring Boot, JPA/Hibernate, MySQL, PostgreSQL.
+Bem vingos ao meu github. Sou desenvolvedor de software, formado na instituição ETEC de Itaquera e estudante da Universidade Cidade São Paulo, e busco a minha primeira oportunidade no mercado de TI.
+Possuo foco em tecnologias de Desenvolvimento Back-end como Java, construindo API's REST com Spring Boot, JPA/Hibernate, MySQL, PostgreSQL. Juntamente a realização de testes unitários com JUnit5.
+Também possuo conhecimento em algumas tecnologias de Front-end, como: HTML, CSS, Javascript e React.
+
+Sempre pronto para aprender novas tecnologias e superar novos desafios!
 
 &nbsp;
 <hr>
