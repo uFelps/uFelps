@@ -38,11 +38,11 @@ Sempre pronto para aprender novas tecnologias e superar novos desafios!
 <h2>👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/uFelps/Skilloo-API" title="SkillooAPI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ufelps&repo=Skilloo-API&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/uFelps/Ticketmaster" title="Ticketmaster"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ufelps&repo=Ticketmaster&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/uFelps/Spotify-Awards" title="Spotify Awards"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ufelps&repo=Spotify-Awards&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/uFelps/Spring-Security-Auth-JWT" title="JWT"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ufelps&repo=Spring-Security-Auth-JWT&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a width="100%" align="right" href="https://github.com/uFelps/workshop-springboot3-jpa" title="Spotify Awards"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ufelps&repo=workshop-springboot3-jpa&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a width="100%" align="right" href="https://github.com/uFelps/Skilloo-API" title="SkillooAPI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ufelps&repo=Skilloo-API&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
