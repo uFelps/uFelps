@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm Felipe Sandes</h1>
 Bem vindos ao meu Github. Sou desenvolvedor de software, formado na instituição ETEC de Itaquera e estudante da Universidade Cidade São Paulo, e busco a minha primeira oportunidade no mercado de TI.
-Possuo foco em tecnologias de Desenvolvimento Back-end como Java, construindo API's REST com Spring Boot, JPA/Hibernate, MySQL, PostgreSQL. Juntamente a realização de testes unitários com JUnit5.
-Também possuo conhecimento em algumas tecnologias de Front-end, como: HTML, CSS, Javascript e React.
+Minha especialidade é o desenvolvimento em Java, construindo API's com Spring, utilizando ferramentas como: Spring JPA, Spring MVC e Spring Validation. Escrevendo testes unitários com JUnit 5 e Mockito. Construindo sistemas de autenticação e autorização com Spring Security e JWT. Além de Gerenciar e manipular banco de dados com: MySQL e PostgreSQL. 
+Atualmente, estou expandindo meu conjunto de habilidades para incluir o desenvolvimento de microsserviços com Spring Cloud, mensageria com RabbitMQ, conteinerização com Docker e serviços de nuvem com AWS (EC2 e S3).
+
+Embora minha especialidade seja o back-end, também tenho noções de desenvolvimento front-end com JavaScript e React, o que me permite entender e contribuir para todas as partes de um aplicativo.
 
 Sempre pronto para aprender novas tecnologias e superar novos desafios!
 
