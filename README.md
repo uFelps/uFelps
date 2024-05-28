@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Felipe Sandes</h1>
-<hr>
-<p>💻Jr Software Developer </p>
-<p>👨‍💻Student of Systems Analysis and Development at < a href="https://www.unicid.edu.br" target="blank_">Universidade Cidade de São Paulo</a></p>
-<p>🎓Graduate in Systems Development at < a href="https://www.unicid.edu.br" target="blank_">Etec de Itaquera I</a></p>
+
+- 💻Jr Software Developer 
+- 👨‍💻Student of Systems Analysis and Development at <a href="https://www.unicid.edu.br" target="blank_">Universidade Cidade de São Paulo</a>
+- 🎓Graduate in Systems Development at <a href="https://www.unicid.edu.br" target="blank_">Etec de Itaquera I</a>
 
 &nbsp;
 
