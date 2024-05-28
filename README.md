@@ -5,7 +5,6 @@
 - 🎓Graduate in Systems Development at <a href="https://www.unicid.edu.br" target="blank_">Etec de Itaquera I</a>
 
 [![Felps top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uFelps&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
 
 
 <h3 align="left">Connect with me:</h3>
