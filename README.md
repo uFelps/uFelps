@@ -33,7 +33,7 @@ Sempre pronto para aprender novas tecnologias e superar novos desafios!
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java.spring.aws.docker.react.mysql.postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,react.mysql,postgres&theme=light)](https://skillicons.dev)
 
 
 
