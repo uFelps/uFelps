@@ -9,11 +9,8 @@ Sempre pronto para aprender novas tecnologias e superar novos desafios!
 
 &nbsp;
 <hr>
-<h2>⚡ Stats ⚡</h2>
 
 [![Felps top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uFelps&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
- 
-
 <hr>
 
 
