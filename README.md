@@ -4,7 +4,7 @@
 - 👨‍💻Student of Systems Analysis and Development at <a href="https://www.unicid.edu.br" target="blank_">Universidade Cidade de São Paulo</a>
 - 🎓Graduate in Systems Development at <a href="https://www.vestibulinhoetec.com.br/unidades-cursos/escola.asp?c=128" target="blank_">Etec de Itaquera I</a>
 
-[![Felps top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uFelps&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Felps top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uFelps&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
