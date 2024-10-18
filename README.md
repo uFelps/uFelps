@@ -27,6 +27,12 @@
 
 -Microsservicos
 
+- C# | .NET
+
+- ASP.NET
+
+- Entity Framework
+
 -Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)
 
 -Docker
