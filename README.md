@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,aws,docker,react,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,aws,docker,react,mysql,postgres,idea,rider&theme=dark)](https://skillicons.dev)
 
 - Java
 
