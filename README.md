@@ -17,15 +17,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,react,mysql,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,react,mysql,postgres&theme=dark)](https://skillicons.dev)
 
--Java
+- Java
 
--Spring Boot (Web, Data JPA, Security)
+- Spring Boot (Web, Data JPA, Security)
 
--Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)
+- Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)
 
--Microsservicos
+- Microsservicos
 
 - C# | .NET
 
@@ -33,12 +33,8 @@
 
 - Entity Framework
 
--Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)
+- Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)
 
--Docker
+- Docker
 
--AWS Bucket S3
-
--AWS EC2
-
--AWS RDS
+- AWS (Bucket S3, EC2, RDS)
