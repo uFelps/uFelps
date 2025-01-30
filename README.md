@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,aws,docker,react,mysql,postgres,idea,rider&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,react,mysql,postgres,idea&theme=dark)](https://skillicons.dev)
 
 - Java
 
@@ -26,12 +26,6 @@
 - Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)
 
 - Microsservicos
-
-- C# | .NET
-
-- ASP.NET
-
-- Entity Framework
 
 - Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)
 
