@@ -6,7 +6,7 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufelps&layout=compact&langs_count=4&theme=white"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufelps&layout=compact&langs_count=4&theme=dark"/> 
 
 
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,react,mysql,postgres,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,react,mysql,postgres,idea&theme=white)](https://skillicons.dev)
 
 - Java
 
